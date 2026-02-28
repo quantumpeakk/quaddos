@@ -1,23 +1,23 @@
 # quaddos
 
-# Quatoolkit Installatıon
+# Quaddos Installatıon & Quaddos Kurulum
 
 ```
-git clone https://github.com/quantumpeakk/Quatoolkit.git
+git clone https://github.com/quantumpeakk/quaddos.git
 ```
 ```
-cd Quatoolkit
+cd quaddos
 ```
 ```
-chmod +x install.sh && ./install.sh
+chmod +x installer.sh && ./installer.sh
 ```
 ```
-python quatoolkit.py
+python quaddos.py
 ```
 # Password & Şifre
 ```
-quatoolkit
+986
 ```
 
-Best ddos that works in termux
+Best ddos that works in termux & termuxda çalışan en iyi ddos
 ![QUADDOS](https://r.resimlink.com/I6jqahLtTEf.png)
